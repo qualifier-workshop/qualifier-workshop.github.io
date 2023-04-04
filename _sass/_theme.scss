@@ -48,6 +48,8 @@ body {
   margin-bottom: 1.6rem;
   text-align: center;
   background: $featureBackgroundColour;
+  background-color: #ddd;
+  background-blend-mode: overlay;
   background-size: cover;
   background-position: center;
   .container {
@@ -453,5 +455,10 @@ pre code {
   pre {
     white-space: pre;
     overflow-x: scroll;
+  }
+  p a {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, $headingColour 50%);
+    text-shadow: none;
+    color: $headingColour;
   }
 }
