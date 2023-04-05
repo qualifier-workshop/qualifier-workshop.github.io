@@ -1,7 +1,7 @@
 ---
-title: QUALIFIER'23
+title: QUALIFIER 2023
 feature_text: |
-  ## QUALIFIER'23
+  ## QUALIFIER 2023
   1st International Workshop on Quality in Software Architecture \
   co-located with [ECSA 2023](https://conf.researchr.org/track/ecsa-2023)
 feature_image: "/uploads/14359374924_07f449a1e9_k.jpg"
@@ -22,8 +22,8 @@ TDB
 
 ## Organizing Committee
 
- * Daniele Di Pompeo, Unversity of L'Aquila
- * Michele Tucci, University of L'Aquila
+ * Daniele Di Pompeo, SPENCER Lab, Unversity of L'Aquila
+ * Michele Tucci, SPENCER Lab, University of L'Aquila
  * Mahyar Tourchi Moghaddam, University of Southern Denmark
 
 ## Program Committee
@@ -31,10 +31,9 @@ TDB
 TBD
 
 ## Important dates 
-(Deadline: Midnight (AoE))
+(All deadlines are 23:59, Anywhere on Earth)
 
- - Workshop papers due: June 30, 2023
- - Notification of workshops papers: July 28, 2023
- - Workshop papers (LNCS) camera-ready: August 4th, 2023
- - Workshop/tutorial: September 18-19, 2023
-
+ - Papers due: June 30, 2023
+ - Notification to authors: July 28, 2023
+ - Camera-ready due: August 4, 2023
+ - Workshop: September 18-19, 2023
