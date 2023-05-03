@@ -28,7 +28,15 @@ TDB
 
 ## Program Committee
 
-TBD
+ - Andres Diaz-Pace, UNICEN University, Argentina
+ - André van Hoorn, Hamburg University, Germany
+ - Ilias Gerostathopoulos, Vrije Universiteit, The Netherlands
+ - Radu Calinescu, University of York, UK
+ - Antinisca Di Marco, University of L'Aquila, Italy
+ - Steffen Becker, University of Stuttgart, Germany
+ - Elena Navarro, Universidad de Castilla-La Mancha, Spain
+ - Mikkel Baun Kjærgaard, University of Southern Denmark, Denmark
+ - Jan Bosch, Chalmers University of Technology, Sweden
 
 ## Important dates 
 (All deadlines are 23:59, Anywhere on Earth)
