@@ -3,7 +3,7 @@ title: QUALIFIER 2023
 feature_text: |
   ## QUALIFIER 2023
   1st International Workshop on Quality in Software Architecture \
-  co-located with [ECSA 2023](https://conf.researchr.org/track/ecsa-2023)
+  co-located with [ECSA 2023](https://conf.researchr.org/home/ecsa-2023)
 feature_image: "/uploads/14359374924_07f449a1e9_k.jpg"
 excerpt: "QUALIFIER is a ECSA workshop on the quality of software architectures."
 ---
