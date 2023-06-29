@@ -76,7 +76,7 @@ Workshop papers submitted for the post-proceedings will undergo an additional re
 ## Important dates 
 (All deadlines are 23:59, Anywhere on Earth)
 
- - Papers due: June 30, 2023
+ - Papers due: :warning: ~~June 30~~ July 7, 2023 :warning:
  - Notification to authors: July 28, 2023
  - Camera-ready due: August 4, 2023
  - Workshop: September 18-19, 2023
