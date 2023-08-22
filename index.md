@@ -14,6 +14,19 @@ In fact, software architectures provide a valuable opportunity to assess and dri
 
 The objectives of this workshop are to bring together researchers and industrial practitioners both from the software architecture and the wider software engineering communities to collaborate, share experiences, provide directions for future research, and to encourage the use of quality assessment techniques in any stage of the software engineering lifecycle. 
 
+## Accepted Papers
+
+| <!-- -->| <!-- --> |
+|--- | --- |
+| Iffat Fatima and Patricia Lago	| Towards a Sustainability-aware Software Architecture Evaluation for Cloud-Based Software Services |
+| Francesca Marzi, Giordano d'Aloisio, Antinisca Di Marco and Giovanni Stilo	| Towards a Prediction of Machine Learning Training Time to Support Continuous Learning Systems Development. |
+| Roberto Verdecchia, Kevin Maggi, Leonardo Scommegna and Enrico Vicario	| Tracing the Footsteps of Technical Debt in Microservices: A Preliminary Case Study |
+| Helena Rodrigues and António Rito Silva	| Performance Comparison of Monolith and Microservice Architectures: An Analysis of the State of the Art |
+| Sebastian Frank, Julian Brott, Alireza Hakamian and André van Hoorn	| TQPropRefiner: Interactive Comprehension and Refinement of Specifications on Transient Software Quality Properties |
+
+## Program 
+
+TBD
 
 ## Call for paper
 
