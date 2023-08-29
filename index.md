@@ -16,7 +16,7 @@ The objectives of this workshop are to bring together researchers and industrial
 
 ## Program 
 
-| Time <br/> GMT+03:00  | Talk |
+| Time <br/> <font size="1">GMT+03:00</font>  | Talk |
 | ---   | ---   |
 | 09:00 | **WELCOME Message** |
 | 09:15 | **KEYNOTE: TBD**. <br /> Ali Babar |
@@ -25,9 +25,12 @@ The objectives of this workshop are to bring together researchers and industrial
 | 11:30 | **TQPropRefiner: Interactive Comprehension and Refinement of Specifications on Transient Software Quality Properties** <br /> Sebastian Frank, Julian Brott, Alireza Hakamian and André van Hoorn. |
 | 12:00 | **Tracing the Footsteps of Technical Debt in Microservices: A Preliminary Case Study** <br /> Roberto Verdecchia, Kevin Maggi, Leonardo Scommegna and Enrico Vicario. |
 | 12:30 | **LUNCH** |
-| 13:30 | **Performance Comparison of Monolith and Microservice Architectures: An Analysis of the State of the Art** <br /> Helena Rodrigues and António Rito Silva. |
-| 14:00 | **Towards a Prediction of Machine Learning Training Time to Support Continuous Learning Systems Development.** <br /> Francesca Marzi, Giordano d'Aloisio, Antinisca Di Marco and Giovanni Stilo. |
-| 14:30 | **CLOSING REMARKS** |
+| 13:30 | *TENTATIVE KEYNOTE*|
+| 14:30 | **BREAK** |
+| 15:30 | **Performance Comparison of Monolith and Microservice Architectures: An Analysis of the State of the Art** <br /> Helena Rodrigues and António Rito Silva. |
+| 16:00 | **Towards a Prediction of Machine Learning Training Time to Support Continuous Learning Systems Development.** <br /> Francesca Marzi, Giordano d'Aloisio, Antinisca Di Marco and Giovanni Stilo. |
+| 16:30 | **CLOSING REMARKS** |
+<p></p>
 
 ## Call for paper
 
