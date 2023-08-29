@@ -16,7 +16,7 @@ The objectives of this workshop are to bring together researchers and industrial
 
 ## Program 
 
-| Time <br/> <font size="1">GMT+03:00</font>  | Talk |
+| Time <br/> <font size="2">GMT+03:00</font>  | Talk |
 | ---   | ---   |
 | 09:00 | **WELCOME Message** |
 | 09:15 | **KEYNOTE: TBD**. <br /> Ali Babar |
@@ -30,6 +30,7 @@ The objectives of this workshop are to bring together researchers and industrial
 | 15:30 | **Performance Comparison of Monolith and Microservice Architectures: An Analysis of the State of the Art** <br /> Helena Rodrigues and António Rito Silva. |
 | 16:00 | **Towards a Prediction of Machine Learning Training Time to Support Continuous Learning Systems Development.** <br /> Francesca Marzi, Giordano d'Aloisio, Antinisca Di Marco and Giovanni Stilo. |
 | 16:30 | **CLOSING REMARKS** |
+
 <p></p>
 
 ## Call for paper

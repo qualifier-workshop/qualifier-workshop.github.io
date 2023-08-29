@@ -10,7 +10,7 @@ body {
 
 .container {
   width: 90%;
-  max-width: 1200px;
+  /* max-width: 1200px; */
   margin: 0 auto;
 }
 
@@ -462,4 +462,14 @@ pre code {
     text-shadow: none;
     color: $headingColour;
   }
+}
+
+th, td {
+  padding: 5px 15px 5px 15px;
+  border: 1px solid #384743;
+}
+th {
+  font-weight: bold;
+  text-align: center;
+  background-color: #eee;
 }
