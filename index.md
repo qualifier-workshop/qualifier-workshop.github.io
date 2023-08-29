@@ -12,23 +12,23 @@ Software architecture refers to the fundamental structures of a software system 
 On the basis of such specification, it is possible to infer quality aspects of the software to be built, like performance, reliability, and maintainability.
 In fact, software architectures provide a valuable opportunity to assess and drive software quality from the early stages of software development, as well as later on, during software evolution.
 
-The objectives of this workshop are to bring together researchers and industrial practitioners both from the software architecture and the wider software engineering communities to collaborate, share experiences, provide directions for future research, and to encourage the use of quality assessment techniques in any stage of the software engineering lifecycle. 
+The objectives of this workshop are to bring together researchers and industrial practitioners both from the software architecture and the wider software engineering communities to collaborate, share experiences, provide directions for future research, and to encourage the use of quality assessment techniques in any stage of the software engineering lifecycle.
 
-## Program 
+## Program
 
 | Time <br/> <font size="2">GMT+03:00</font>  | Talk |
 | ---   | ---   |
 | 09:00 | **WELCOME Message** |
 | 09:15 | **KEYNOTE: TBD**. <br /> Ali Babar |
 | 10:30 | **BREAK** |
-| 11:00 | **Towards a Sustainability-aware Software Architecture Evaluation for Cloud-Based Software Services.** <br /> Iffat Fatima and Patricia Lago. |
-| 11:30 | **TQPropRefiner: Interactive Comprehension and Refinement of Specifications on Transient Software Quality Properties** <br /> Sebastian Frank, Julian Brott, Alireza Hakamian and André van Hoorn. |
-| 12:00 | **Tracing the Footsteps of Technical Debt in Microservices: A Preliminary Case Study** <br /> Roberto Verdecchia, Kevin Maggi, Leonardo Scommegna and Enrico Vicario. |
+| 11:00 | **Towards a Sustainability-aware Software Architecture Evaluation for Cloud-Based Software Services.** <br /> Iffat Fatima, Patricia Lago. |
+| 11:30 | **TQPropRefiner: Interactive Comprehension and Refinement of Specifications on Transient Software Quality Properties** <br /> Sebastian Frank, Julian Brott, Alireza Hakamian, André van Hoorn. |
+| 12:00 | **Tracing the Footsteps of Technical Debt in Microservices: A Preliminary Case Study** <br /> Roberto Verdecchia, Kevin Maggi, Leonardo Scommegna, Enrico Vicario. |
 | 12:30 | **LUNCH** |
 | 13:30 | *TENTATIVE KEYNOTE*|
 | 14:30 | **BREAK** |
-| 15:30 | **Performance Comparison of Monolith and Microservice Architectures: An Analysis of the State of the Art** <br /> Helena Rodrigues and António Rito Silva. |
-| 16:00 | **Towards a Prediction of Machine Learning Training Time to Support Continuous Learning Systems Development.** <br /> Francesca Marzi, Giordano d'Aloisio, Antinisca Di Marco and Giovanni Stilo. |
+| 15:30 | **Performance Comparison of Monolith and Microservice Architectures: An Analysis of the State of the Art** <br /> Helena Rodrigues, António Rito Silva. |
+| 16:00 | **Towards a Prediction of Machine Learning Training Time to Support Continuous Learning Systems Development.** <br /> Francesca Marzi, Giordano d'Aloisio, Antinisca Di Marco, Giovanni Stilo. |
 | 16:30 | **CLOSING REMARKS** |
 
 <p></p>
@@ -51,7 +51,7 @@ Software architecture is a high-level abstraction of the system that, in stage-g
  - User studies on quality aspects and quality assurance practices in SA
  - Datasets to benchmark quality assessment techniques for SA
  - Human-in-the-loop for the assessment and improvement of SA quality
- - Scalability and capacity planning 
+ - Scalability and capacity planning
  - Quality-driven cloud computing and edge-cloud architectures
  - Quality aspects in microservices-based architectures
  - AI/ML techniques for SA quality
@@ -91,7 +91,7 @@ Workshop papers submitted for the post-proceedings will undergo an additional re
  - Mikkel Baun Kjærgaard, University of Southern Denmark, Denmark
  - Jan Bosch, Chalmers University of Technology, Sweden
 
-## Important dates 
+## Important dates
 (All deadlines are 23:59, Anywhere on Earth)
 
  - Papers due: :warning: ~~June 30~~ July 7, 2023 :warning:
