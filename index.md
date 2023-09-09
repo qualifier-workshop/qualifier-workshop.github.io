@@ -19,19 +19,39 @@ The objectives of this workshop are to bring together researchers and industrial
 | Time <br/> <font size="2">GMT+03:00</font>  | Talk |
 | ---   | ---   |
 | 09:00 | **WELCOME Message** |
-| 09:15 | **KEYNOTE: TBD**. <br /> Ali Babar |
+| 09:15 | **KEYNOTE: Designing Quality-Driven Blockchain Networks: Motivators, Actions & Outcomes**. <br /> Ali Babar ([abstract](#ali-babar)) |
 | 10:30 | **BREAK** |
 | 11:00 | **Towards a Sustainability-aware Software Architecture Evaluation for Cloud-Based Software Services.** <br /> Iffat Fatima, Patricia Lago. |
 | 11:30 | **TQPropRefiner: Interactive Comprehension and Refinement of Specifications on Transient Software Quality Properties** <br /> Sebastian Frank, Julian Brott, Alireza Hakamian, André van Hoorn. |
 | 12:00 | **Tracing the Footsteps of Technical Debt in Microservices: A Preliminary Case Study** <br /> Roberto Verdecchia, Kevin Maggi, Leonardo Scommegna, Enrico Vicario. |
 | 12:30 | **LUNCH** |
-| 13:30 | *TENTATIVE KEYNOTE*|
+| 13:30 | **KEYNOTE: A window on the relations between architectural and quality-attribute optimization spaces**. <br /> Andres Diaz-Pace ([abstract](#andres-diaz-pace))|
 | 14:30 | **BREAK** |
 | 15:30 | **Performance Comparison of Monolith and Microservice Architectures: An Analysis of the State of the Art** <br /> Helena Rodrigues, António Rito Silva. |
 | 16:00 | **Towards a Prediction of Machine Learning Training Time to Support Continuous Learning Systems Development.** <br /> Francesca Marzi, Giordano d'Aloisio, Antinisca Di Marco, Giovanni Stilo. |
 | 16:30 | **CLOSING REMARKS** |
 
 <p></p>
+
+### Keynotes:
+
+#### Ali Babar
+
+<img src="uploads/ali-babar.jpg" width="100" /> 
+
+**Abstract:** Blockchain technologies have been increasingly adopted by enterprises to increase operational efficiency and enable new business models. These enterprise blockchain applications generally run on dedicated blockchain networks due to regulations and security requirements. The design process of these networks involves many decisions and trade-offs that can have positive/negative impact on different quality attributes, such as security, governance, and performance, of applications that run on them. Hence, the design of BT networks should take into consideration the quality attributes to be supported. However, most of the existing software architecture literature on BC usually treats networks as black boxes. The challenge is further exacerbated by the lack of a common architecture and concept map to communicate BC networks design decisions. Lack of appropriate quality-driven approaches to design and deploy BC-networks and associated design space stimulated our R&D in this area. We have developed a design space that can be consumed/evolved during a quality-driven process of designing and deploying BC-Networks. This talk will discuss the key motivators of our R&D in this line of research, the actions we took and the outcomes that have been achieved. We also demonstrate some examples of the use of the quality-driven approach and the use of the design space for BC-networks that have been evaluated with real world scenarios. The talk would finish with some lessons that are driving our current R&D in collaboration with governmental agencies.
+
+_Short bio_: M. Ali Babar is a Professor in the School of Computer Science, University of Adelaide, Australia. He leads a theme on architecture and platform for security as service in Cyber Security Cooperative Research Centre (CSCRC), a large initiative funded by the Australian government, industry, and research institutes. Professor Babar leads one of the largest projects on “Software Security” in the ANZEC region funded by the CSCRC. Software Security with Focus on Critical Infrastructure, SOCRATES, brings more than 75 researchers and practitioners from 10 organization for developing and evaluating novel knowledge and AI- based platforms, methods, and tools for software security. Prof Babar established an interdisciplinary research centre called CREST, Centre for Research on Engineering Software Technologies, where he directs the research, development and education activities of more than 30 researchers and engineers in the areas of Software Systems Engineering, Security and Privacy, and Social Computing. Professor Babar has authored/co-authored more than 300 peer-reviewed research papers at premier Software journals and conferences. Professor Babar obtained a Ph.D. in Computer Science and Engineering from the school of computer science and engineering of University of New South Wales, Australia. He also holds a M.Sc. degree in Computing Sciences from University of Technology, Sydney, Australia. More information on Professor Babar can be found at [http://malibabar.wordpress.com](http://malibabar.wordpress.com).
+
+___
+
+#### Andres Diaz-Pace
+
+<img src="uploads/andres-diaz-pace.jpg" width="100" /> 
+
+**Abstract**: Several approaches for architecture refactoring and improvement have emerged over the last years, which mostly cast the problem as one of multi-objective optimization. Given an initial architecture, different candidates are often automatically explored by applying architectural transformations. On one hand, the set of architectural candidates explored by a tool is referred to as the architectural space. Each candidate is described by structural properties (e.g., a graph), and the architectural space is also a graph in itself. On the other hand, the optimization objectives usually capture quality attributes of the system (e.g., performance, reliability, cost) and lead to different tradeoffs, which altogether define a quality-attribute space. Understanding and characterizing, for instance by visual means, both types of spaces as well as the relations between them is important for architects to get the most from the optimization process and efficiently investigate the available candidates and tradeoffs, particularly in large search spaces. While the quality-attribute space has been reasonably studied -- by borrowing from traditional engineering optimization techniques, the architectural space has received scant attention.  In this session, we will present a set of techniques and visualizations that try to address this gap, show some demos based on case-studies, and then discuss research challenges related to making those spaces more comprehensible for architects and stakeholders. The session is also intended to brainstorm ideas and identify techniques from other fields that could be adapted to the architecture optimization domain.
+
+_Short bio_: Andres Diaz-Pace is currently a professor at UNICEN University (Tandil, Buenos Aires, Argentina), and also a Principal Research Fellow of CONICET-Argentina. From 2007 to 2010, he was a member of the technical staff at the Software Engineering Institute (SEI, Pittsburgh, USA) within the software architecture initiative. His primary research interests are: quality-driven architecture design, AI and NLP techniques applied to software engineering, and architecture-based evolution and conformance. He has authored several publications on topics of design assistance and analysis tools for object-oriented applications. He has also participated, as an architecture evaluator or as a lead architect, in technology transfer projects with the software industry. Mr. Diaz-Pace received a Ph.D. in Computer Science from UNICEN University in 2004. Contact him at andres.diazpace@isistan.unicen.edu.ar
 
 ## Call for paper
 
