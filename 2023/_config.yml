@@ -93,7 +93,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "QUALIFIER 2024" # Site name or title, also used in jekyll-seo-tag
+title: "QUALIFIER 2023" # Site name or title, also used in jekyll-seo-tag
   #logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 logo: "/assets/logos/qualifier.png" # Site logo, also used in jekyll-seo-tag
 description: "1st International Workshop on Quality in Software Architecture" # Site description and default description, also used in jekyll-seo-tag
@@ -133,8 +133,6 @@ navigation_header:
   url: /#important-dates
 - title: Organizing Committee
   url: /#organizing-committee
-- title: Previous Editions
-  url: /previous-editions
 
 navigation_footer:
 - title: Template by David Darnes
