@@ -59,7 +59,17 @@ Submissions must follow the IEEE Computer Science proceedings format, as worksho
 
 ## Program Committee
 
-TBD
+| <!-- -->    | <!-- -->    |
+|---|---|
+| Antinisca	Di Marco | University of L'Aquila, Italy |
+| Ilias	Gerostathopoulos |	Vrije Universiteit Amsterdam, The Netherlands |
+| J. Andres	Diaz-Pace |	ISISTAN, Argentina |
+| Jacopo	Soldani	| University of Pisa, Italy |
+| André	van Hoorn	| University of Hamburg, Germany |
+| Thais	Batista	| Federal University of Rio Grande do Norte, Brasil |
+| António	Rito Silva	| Universidade de Lisboa, Portugal |
+| Raffaela Mirandola	| Karlsruhe Institute of Technology, Germany |
+| Francesca	Arcelli Fontana	| University of Milano - Bicocca, Italy |
 
 ## Important dates
 (All deadlines are 23:59, Anywhere on Earth)
