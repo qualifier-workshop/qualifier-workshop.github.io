@@ -80,4 +80,6 @@ Submissions must follow the IEEE Computer Science proceedings format, as worksho
 - Workshop dates: June 4-5, 2024
 
 ## Contact
+For any questions, please don’t hesitate to contact us at: [qualifier2024@easychair.org](mailto:qualifier2024@easychair.org)
+
 
