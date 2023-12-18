@@ -61,16 +61,16 @@ Submissions must follow the IEEE Computer Science proceedings format, as worksho
 
 - Nour Ali, Brunel University London, UK
 - Francesca	Arcelli Fontana, University of Milano - Bicocca, Italy
+- Ali Babar, University of Adelaide, Australia
 - Thais	Batista, Federal University of Rio Grande do Norte, Brasil
+- Jan Bosh, University of Groningen and at Chalmers University of Technology, Sweden
 - J. Andres	Diaz-Pace, ISISTAN, Argentina 
 - Antinisca	Di Marco, University of L'Aquila, Italy 
 - Ilias	Gerostathopoulos, Vrije Universiteit Amsterdam, The Netherlands 
 - Raffaela Mirandola, Karlsruhe Institute of Technology, Germany 
 - António	Rito Silva, Universidade de Lisboa, Portugal 
 - Jacopo Soldani, University of Pisa, Italy 
-- André	van Hoorn, University of Hamburg, Germany 
-
-<p></p>
+- André	van Hoorn, University of Hamburg, Germany
 
 ## Important dates
 (All deadlines are 23:59, Anywhere on Earth)
