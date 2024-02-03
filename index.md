@@ -66,7 +66,8 @@ Submissions must follow the IEEE Computer Science proceedings format, as worksho
 - Jan Bosh, University of Groningen and at Chalmers University of Technology, Sweden
 - J. Andres	Diaz-Pace, ISISTAN, Argentina 
 - Antinisca	Di Marco, University of L'Aquila, Italy 
-- Ilias	Gerostathopoulos, Vrije Universiteit Amsterdam, The Netherlands 
+- Ilias	Gerostathopoulos, Vrije Universiteit Amsterdam, The Netherlands
+- Anne Koziolek, Karlsruhe Institute of Technology, Germany
 - Raffaela Mirandola, Karlsruhe Institute of Technology, Germany 
 - António	Rito Silva, Universidade de Lisboa, Portugal 
 - Jacopo Soldani, University of Pisa, Italy 
