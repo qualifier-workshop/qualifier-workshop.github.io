@@ -14,6 +14,11 @@ In fact, software architectures provide a valuable opportunity to assess and dri
 
 The objectives of this workshop are to bring together researchers and industrial practitioners both from the software architecture and the wider software engineering communities to collaborate, share experiences, provide directions for future research, and to encourage the use of quality assessment techniques in any stage of the software engineering lifecycle.
 
+##### Special Issue
+<p style="background-color: #d0e2ff">
+We are guest editing a special issue of the Journal of Systems and Software on the same themes of the workshop: <a href="https://www.sciencedirect.com/journal/journal-of-systems-and-software/about/call-for-papers#quality-in-software-architecture">Quality in Software Architecture</a>. The deadline is on <strong>May 30, 2024</strong>, but we are already accepting submissions. Submissions will be processed and start the reviewing process as soon as they arrive, without waiting for the submission deadline.
+</p>
+
 ## Call for paper
 
 ##### Themes and goals
@@ -54,7 +59,7 @@ Submissions must follow the IEEE Computer Science proceedings format, as worksho
 
 ## Organizing Committee
 
- * Daniele Di Pompeo, SPENCER Lab, Unversity of L'Aquila
+ * Daniele Di Pompeo, SPENCER Lab, University of L'Aquila
  * Michele Tucci, SPENCER Lab, University of L'Aquila
 
 ## Program Committee
