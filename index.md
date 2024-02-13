@@ -52,6 +52,7 @@ QUALIFIER24 seeks contributions in the form of:
 - 8 pages for full research papers in IEEE format;
 - 4 pages for short research papers in IEEE format;
 - 2 pages for new ideas and emerging results in IEEE format.
+
 All page limits include tables, figures, and references.
 
 All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity by the program committee. 
