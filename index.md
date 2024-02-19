@@ -83,7 +83,7 @@ Submissions must follow the IEEE Computer Science proceedings format, as worksho
 ## Important dates
 (All deadlines are 23:59, Anywhere on Earth)
 
-- Paper submission: February 18, 2024
+- Paper submission: :warning: ~~February 18~~ February 25, 2024 :warning:
 - Paper notification: March 17, 2024
 - Camera-ready workshop papers due: March 31, 2024
 - Workshop dates: June 4-5, 2024
