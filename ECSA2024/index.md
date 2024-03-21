@@ -69,9 +69,9 @@ To be announced.
 ## Important dates
 (All deadlines are 23:59, Anywhere on Earth)
 
-- Paper submission: June 15, 2024
-- Paper notification: July 13, 2024
-- Camera-ready workshop papers due: July 31, 2024
+- Paper submission: June 6, 2024
+- Paper notification: June 27, 2024
+- Camera-ready version: July 4, 2024
 - Workshop dates: September 2 or 3, 2024
 
 ## Contact
