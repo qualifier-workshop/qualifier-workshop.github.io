@@ -135,6 +135,8 @@ navigation_header:
   url: /#organizing-committee
 - title: Previous Editions
   url: /previous-editions
+- title: Upcoming Editions
+  url: /upcoming-editions
 
 navigation_footer:
 - title: Template by David Darnes
