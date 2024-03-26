@@ -50,12 +50,15 @@ Software architecture is a high-level abstraction of the system that, in stage-g
 
 QUALIFIER seeks contributions in the form of:
 - 16 pages for full research papers;
-- 8 up to 12 pages for new ideas and emerging results, vision paper, and short research;
+- minimum 8 pages, up to 12, for new ideas and emerging results, vision paper, and short research;
 - 2 pages for extended abstract (presentation only - NO PROCEEDINGS)
 
-All contributions must be formatted according to the Springer LNCS style [http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0). Page limits include figures and references.
-Contributions need to be submitted in PDF format via EasyChair to the ECSA 2024 Research Track: [https://easychair.org/conferences/?conf=ecsa2024](https://easychair.org/conferences/?conf=ecsa2024).
+All contributions must be formatted according to the [Springer LNCS style](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0). Page limits include figures and references.
+Contributions need to be submitted in PDF format via EasyChair to [ECSA 2024](https://easychair.org/conferences/?conf=ecsa2024).
 Please select the "3rd International Workshop on Quality in Software Architecture" in EasyChair for your submission and click "Continue".
+
+Papers follow a single-blinded reviewing process and must contain original unpublished work, describe significant novel contributions, and provide evidence about the validation of the results. 
+Papers will undergo a single review process (no additional review round for post-proceedings).
 
 The proceedings will be published by Springer as part of the LNCS series.
 
