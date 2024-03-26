@@ -53,11 +53,9 @@ QUALIFIER seeks contributions in the form of:
 - 8 up to 12 pages for new ideas and emerging results, vision paper, and short research;
 - 2 pages for extended abstract (presentation only - NO PROCEEDINGS)
 
-All page limits include tables, figures, and references.
-
 All contributions must be formatted according to the Springer LNCS style [http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0). Page limits include figures and references.
 Contributions need to be submitted in PDF format via EasyChair to the ECSA 2024 Research Track: [https://easychair.org/conferences/?conf=ecsa2024](https://easychair.org/conferences/?conf=ecsa2024).
-Please select the "2nd International Workshop on Quality in Software Architecture" in EasyChair for your submission and click "Continue".
+Please select the "3rd International Workshop on Quality in Software Architecture" in EasyChair for your submission and click "Continue".
 
 The proceedings will be published by Springer as part of the LNCS series.
 
