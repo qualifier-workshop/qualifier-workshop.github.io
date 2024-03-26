@@ -79,5 +79,5 @@ To be announced.
 - Workshop dates: September 2 or 3, 2024
 
 ## Contact
-For any questions, please don’t hesitate to contact us at: [qualifier2024@easychair.org](mailto:qualifier2024@easychair.org)
+For any questions, please don’t hesitate to contact us at: [ecsa_qualifier2024@easychair.org](ecsa_qualifier2024@easychair.org)
 
