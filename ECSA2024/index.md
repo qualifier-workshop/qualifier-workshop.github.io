@@ -69,7 +69,13 @@ The proceedings will be published by Springer as part of the LNCS series.
 
 ## Program Committee
 
-To be announced.
+ * Nour Ali - Brunel University London, UK
+ * Jan Bosch - Chalmers University of Technology, Sweden
+ * Giordano D'Aloisio - University of L'Aquila, Italy
+ * Sebastian Frank - University of Stuttgart, Germany
+ * Giovanni Quattrocchi - Politecnico di Milano, Italy
+ * António Rito Silva - Universidade de Lisboa, Portugal
+ * Jacopo Soldani - University of Pisa, Italy
 
 ## Important dates
 (All deadlines are 23:59, Anywhere on Earth)
