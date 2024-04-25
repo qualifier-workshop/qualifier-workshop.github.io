@@ -71,7 +71,7 @@ The proceedings will be published by Springer as part of the LNCS series.
 
  * Nour Ali - Brunel University London, UK
  * Jan Bosch - Chalmers University of Technology, Sweden
- * Giordano D'Aloisio - University of L'Aquila, Italy
+ * Giordano d'Aloisio - University of L'Aquila, Italy
  * Sebastian Frank - University of Stuttgart, Germany
  * Giovanni Quattrocchi - Politecnico di Milano, Italy
  * António Rito Silva - Universidade de Lisboa, Portugal
