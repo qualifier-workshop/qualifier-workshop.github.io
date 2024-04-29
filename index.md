@@ -25,6 +25,10 @@ TBD
 
 ## Keynote
 
+__Davide Taibi__
+<img src="uploads/davide_taibi.jpg" width="100" /> 
+
+
 __Title__ Evaluating Architectural Quality in the Cloud Era
 
 __Abstract__
