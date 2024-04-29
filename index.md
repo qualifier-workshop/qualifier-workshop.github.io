@@ -19,6 +19,23 @@ The objectives of this workshop are to bring together researchers and industrial
 We are guest editing a special issue of the Journal of Systems and Software on the same themes of the workshop: <a href="https://www.sciencedirect.com/journal/journal-of-systems-and-software/about/call-for-papers#quality-in-software-architecture">Quality in Software Architecture</a>. The deadline is on <strong>May 30, 2024</strong>, but we are already accepting submissions. Submissions will be processed and start the reviewing process as soon as they arrive, without waiting for the submission deadline.
 </p>
 
+# Program
+
+TBD
+
+## Keynote
+
+__Title__ Evaluating Architectural Quality in the Cloud Era
+
+__Abstract__
+
+As software architecture continues to evolve, the methods used to assess its quality often lag behind. Traditional metrics such as coupling and cohesion are now gaining traction among practitioners, but their practical application remains murky. This often forces many to rely on intuition rather than structured assessment. In this keynote, we will explore the current methodologies for evaluating architectural quality and discuss potential barriers to their adoption by practitioners. Join us as we delve into the challenges and future directions in measuring the efficacy of software architectures in the cloud-centric world.
+
+__Bio__
+
+Davide Taibi is a full Professor at the University of Oulu. His research is mainly focused on cloud-native systems, where he is working on the identification and reduction of Technical debt, especially in the case of migration from monolithic to cloud-native applications. He is investigating processes, and techniques for developing Cloud Native applications, identifying cloud-native specific patterns and anti-patterns. Davide is also supporting local companies to keep their software maintenance under control, by applying continuous quality monitoring techniques and by supporting them in spotting DevOps antipatterns. Find out more on www.taibi.it
+
+
 ## Call for paper
 
 ##### Themes and goals
