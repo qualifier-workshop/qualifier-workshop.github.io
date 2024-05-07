@@ -19,9 +19,26 @@ The objectives of this workshop are to bring together researchers and industrial
 We are guest editing a special issue of the Journal of Systems and Software on the same themes of the workshop: <a href="https://www.sciencedirect.com/journal/journal-of-systems-and-software/about/call-for-papers#quality-in-software-architecture">Quality in Software Architecture</a>. The deadline is on <strong>May 30, 2024</strong>, but we are already accepting submissions. Submissions will be processed and start the reviewing process as soon as they arrive, without waiting for the submission deadline.
 </p>
 
-# Program
+# QUALIFIER, WASA, & FAACS Joint Program 
 
-TBD
+| Slot | Paper/Keynote | Name | Organisation |
+|---|---|---|---|
+| 09:30 - 09:45 | Opening |  |  |
+| 09:45 - 10:30 | Keynote: Evaluating Architectural Quality in the Cloud Era | Davide Taibi | University of Oulu |
+| 10:30 - 10:55 | MoCoRe — A Generic Model-Driven Composition and Rule-Based Refinement Framework | Moritz Gstür, Yves R. Kirschner, Snigdha Singh and Anne Koziolek | Karlsruhe Institute of Technology, Germany |
+| 11:00 - 11:30 | Coffee Break |  |  |
+| 11:30 - 11:55 | Refactoring of a Microservices Project driven by Architectural Smell Detection | Paolo Bacchiega, Davide Rusconi, Paolo Mereghetti and Francesca Arcelli Fontana | University of Milano - Bicocca and Tech Gap Italia s.r.l., Italy |
+| 11:55 - 12:40 | Keynote: TBA | Bert de Jonge | Verum |
+| 12:40 - 13:05 | Comparing Programming Language Models for Design Pattern Recognition | Sushant Kumar Pandey, Miroslaw Staron, Jennifer Horkoff, Mirosław Ochodek, and Darko Durisic |  |
+| 13:00 - 14:00 | Lunch |  |  |
+| 14:00 - 14:25 | A MBSE framework for the design and analysis of complex automotive systems using SysML and PCE | Tirtha Kaloor and Ion Barosan |  |
+| 14:25 - 14:55 | Invited Talk: TBA | Vinay Kulkarni | Tata Consultancy Services, Pune, India |
+| 14:55 - 15:25 | Invited Talk: (sth. about formal methods in embedded systems/automotive) | Sujit Kumar Chakrabarti  | International Institute of Information Technology Bangalore |
+| 15:30 - 16:00 | Coffee Break |  |  |
+| 16:00 - 16:25 | Optimal Mapping of Workflows Using Serverless Architecture in a Multi-Cloud Environment | Manju Ramesh, Chetan Phalak, Dheeraj Chahal and Rekha Singhal | TCS Research Mumbai, India |
+| 16:25 - 16:50 | Towards Integration of Syntactic and Semantic Vulnerability Patterns (SHORT Paper) | Lal Akhter, Muhammad Taimoor Khan, George Loukas and Georgia Sakellari | University of Greenwich, UK |
+| 16:50 - 17:15 | A fair Endorser Selection mechanism using Ciphertext-policy Attribute-based Encryption in Hyperledger Fabric | Susmita Mandal, Balaraju P and Pranay Chawhan |  |
+| 17:15 - 17:30 | Closing |  |  |
 
 ## Keynote
 
