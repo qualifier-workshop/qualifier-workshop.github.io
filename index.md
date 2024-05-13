@@ -19,25 +19,25 @@ The objectives of this workshop are to bring together researchers and industrial
 We are guest editing a special issue of the Journal of Systems and Software on the same themes of the workshop: <a href="https://www.sciencedirect.com/journal/journal-of-systems-and-software/about/call-for-papers#quality-in-software-architecture">Quality in Software Architecture</a>. The deadline is on <strong>May 30, 2024</strong>, but we are already accepting submissions. Submissions will be processed and start the reviewing process as soon as they arrive, without waiting for the submission deadline.
 </p>
 
-# QUALIFIER, WASA, & FAACS Joint Program 
+# QUALIFIER (Q), [WASA](https://wasa-workshop.github.io/2024/) (W), & [FAACS](https://faacs-workshop.github.io/2024/) (F) Joint Program 
 
 | Slot | Paper/Keynote | Name | Organisation |
 |---|---|---|---|
 | 09:30 - 09:45 | Opening |  |  |
-| 09:45 - 10:30 | Keynote: Evaluating Architectural Quality in the Cloud Era | Davide Taibi | University of Oulu |
-| 10:30 - 10:55 | MoCoRe — A Generic Model-Driven Composition and Rule-Based Refinement Framework | Moritz Gstür, Yves R. Kirschner, Snigdha Singh and Anne Koziolek | Karlsruhe Institute of Technology, Germany |
+| 09:45 - 10:30 (Q) | Keynote: Evaluating Architectural Quality in the Cloud Era | Davide Taibi | University of Oulu |
+| 10:30 - 10:55 (Q) | MoCoRe — A Generic Model-Driven Composition and Rule-Based Refinement Framework | Moritz Gstür, Yves R. Kirschner, Snigdha Singh and Anne Koziolek | Karlsruhe Institute of Technology, Germany |
 | 11:00 - 11:30 | Coffee Break |  |  |
-| 11:30 - 11:55 | Refactoring of a Microservices Project driven by Architectural Smell Detection | Paolo Bacchiega, Davide Rusconi, Paolo Mereghetti and Francesca Arcelli Fontana | University of Milano - Bicocca and Tech Gap Italia s.r.l., Italy |
-| 11:55 - 12:40 | Keynote: TBA | Bert de Jonge | Verum |
-| 12:40 - 13:05 | Comparing Programming Language Models for Design Pattern Recognition | Sushant Kumar Pandey, Miroslaw Staron, Jennifer Horkoff, Mirosław Ochodek, and Darko Durisic |  |
+| 11:30 - 11:55 (Q) | Refactoring of a Microservices Project driven by Architectural Smell Detection | Paolo Bacchiega, Davide Rusconi, Paolo Mereghetti and Francesca Arcelli Fontana | University of Milano - Bicocca and Tech Gap Italia s.r.l., Italy |
+| 11:55 - 12:40 (W) | Keynote: Federate Software Defined Vehicle | Bert de Jonge | CTO Verum |
+| 12:40 - 13:05 (W) | Comparing Programming Language Models for Design Pattern Recognition | Sushant Kumar Pandey, Miroslaw Staron, Jennifer Horkoff, Mirosław Ochodek, and Darko Durisic |  |
 | 13:00 - 14:00 | Lunch |  |  |
-| 14:00 - 14:25 | A MBSE framework for the design and analysis of complex automotive systems using SysML and PCE | Tirtha Kaloor and Ion Barosan |  |
-| 14:25 - 14:55 | Invited Talk: TBA | Vinay Kulkarni | Tata Consultancy Services, Pune, India |
-| 14:55 - 15:25 | Invited Talk: (sth. about formal methods in embedded systems/automotive) | Sujit Kumar Chakrabarti  | International Institute of Information Technology Bangalore |
+| 14:00 - 14:25 (W) | A MBSE framework for the design and analysis of complex automotive systems using SysML and PCE | Tirtha Kaloor and Ion Barosan |  |
+| 14:25 - 14:55 (W) | Invited Talk: Complex system of systems and Digital Twins | Vinay Kulkarni | Tata Consultancy Services, Pune, India |
+| 14:55 - 15:25 (W) | Invited Talk: Two Approaches to V&V of Model Driven Embedded Software | Sujit Kumar Chakrabarti  | International Institute of Information Technology Bangalore |
 | 15:30 - 16:00 | Coffee Break |  |  |
-| 16:00 - 16:25 | Optimal Mapping of Workflows Using Serverless Architecture in a Multi-Cloud Environment | Manju Ramesh, Chetan Phalak, Dheeraj Chahal and Rekha Singhal | TCS Research Mumbai, India |
-| 16:25 - 16:50 | Towards Integration of Syntactic and Semantic Vulnerability Patterns (SHORT Paper) | Lal Akhter, Muhammad Taimoor Khan, George Loukas and Georgia Sakellari | University of Greenwich, UK |
-| 16:50 - 17:15 | A fair Endorser Selection mechanism using Ciphertext-policy Attribute-based Encryption in Hyperledger Fabric | Susmita Mandal, Balaraju P and Pranay Chawhan |  |
+| 16:00 - 16:25 (F) | Optimal Mapping of Workflows Using Serverless Architecture in a Multi-Cloud Environment | Manju Ramesh, Chetan Phalak, Dheeraj Chahal and Rekha Singhal | TCS Research Mumbai, India |
+| 16:25 - 16:50 (F) | Towards Integration of Syntactic and Semantic Vulnerability Patterns (SHORT Paper) | Lal Akhter, Muhammad Taimoor Khan, George Loukas and Georgia Sakellari | University of Greenwich, UK |
+| 16:50 - 17:15 (F) | A fair Endorser Selection mechanism using Ciphertext-policy Attribute-based Encryption in Hyperledger Fabric | Susmita Mandal, Balaraju P and Pranay Chawhan |  |
 | 17:15 - 17:30 | Closing |  |  |
 
 ## Keynote
@@ -55,7 +55,7 @@ As software architecture continues to evolve, the methods used to assess its qua
 
 __Bio__
 
-Davide Taibi is a full Professor at the University of Oulu. His research is mainly focused on cloud-native systems, where he is working on the identification and reduction of Technical debt, especially in the case of migration from monolithic to cloud-native applications. He is investigating processes, and techniques for developing Cloud Native applications, identifying cloud-native specific patterns and anti-patterns. Davide is also supporting local companies to keep their software maintenance under control, by applying continuous quality monitoring techniques and by supporting them in spotting DevOps antipatterns. Find out more on www.taibi.it
+[Davide Taibi](http://www.taibi.it/) is a full Professor at the University of Oulu. His research is mainly focused on cloud-native systems, where he is working on the identification and reduction of Technical debt, especially in the case of migration from monolithic to cloud-native applications. He is investigating processes, and techniques for developing Cloud Native applications, identifying cloud-native specific patterns and anti-patterns. Davide is also supporting local companies to keep their software maintenance under control, by applying continuous quality monitoring techniques and by supporting them in spotting DevOps antipatterns. Find out more on www.taibi.it
 
 
 ## Call for paper
