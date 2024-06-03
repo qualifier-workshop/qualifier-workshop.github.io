@@ -26,19 +26,19 @@ We are guest editing a special issue of the Journal of Systems and Software on t
 | 09:30 - 09:45 | Opening |  |  |
 | 09:45 - 10:30 (Q) | Keynote: Evaluating Architectural Quality in the Cloud Era | Davide Taibi | University of Oulu |
 | 10:30 - 10:55 (Q) | MoCoRe — A Generic Model-Driven Composition and Rule-Based Refinement Framework | Moritz Gstür, Yves R. Kirschner, Snigdha Singh and Anne Koziolek | Karlsruhe Institute of Technology, Germany |
-| 11:00 - 11:30 | Coffee Break |  |  |
-| 11:30 - 11:55 (Q) | Refactoring of a Microservices Project driven by Architectural Smell Detection | Paolo Bacchiega, Davide Rusconi, Paolo Mereghetti and Francesca Arcelli Fontana | University of Milano - Bicocca and Tech Gap Italia s.r.l., Italy |
-| 11:55 - 12:40 (W) | Keynote: Federate Software Defined Vehicle | Bert de Jonge | CTO Verum |
-| 12:40 - 13:05 (W) | Comparing Programming Language Models for Design Pattern Recognition | Sushant Kumar Pandey, Miroslaw Staron, Jennifer Horkoff, Mirosław Ochodek, and Darko Durisic |  |
-| 13:00 - 14:00 | Lunch |  |  |
-| 14:00 - 14:25 (W) | A MBSE framework for the design and analysis of complex automotive systems using SysML and PCE | Tirtha Kaloor and Ion Barosan |  |
-| 14:25 - 14:55 (W) | Invited Talk: Complex system of systems and Digital Twins | Vinay Kulkarni | Tata Consultancy Services, Pune, India |
-| 14:55 - 15:25 (W) | Invited Talk: Two Approaches to V&V of Model Driven Embedded Software | Sujit Kumar Chakrabarti  | International Institute of Information Technology Bangalore |
-| 15:30 - 16:00 | Coffee Break |  |  |
-| 16:00 - 16:25 (F) | Optimal Mapping of Workflows Using Serverless Architecture in a Multi-Cloud Environment | Manju Ramesh, Chetan Phalak, Dheeraj Chahal and Rekha Singhal | TCS Research Mumbai, India |
-| 16:25 - 16:50 (F) | Towards Integration of Syntactic and Semantic Vulnerability Patterns (SHORT Paper) | Lal Akhter, Muhammad Taimoor Khan, George Loukas and Georgia Sakellari | University of Greenwich, UK |
-| 16:50 - 17:15 (F) | A fair Endorser Selection mechanism using Ciphertext-policy Attribute-based Encryption in Hyperledger Fabric | Susmita Mandal, Balaraju P and Pranay Chawhan |  |
+| 11:00 - 11:30     | Coffee Break |  |  |
+| 11:30 - 11:55 (W) | Keynote: Federate Software Defined Vehicle | Bert de Jonge | CTO Verum |
+| 11:55 - 12:40 (W) | Comparing Programming Language Models for Design Pattern Recognition | Sushant Kumar Pandey, Miroslaw Staron, Jennifer Horkoff, Mirosław Ochodek, and Darko Durisic |  |
+| 12:40 - 13:05 (W) | A MBSE framework for the design and analysis of complex automotive systems using SysML and PCE | Tirtha Kaloor and Ion Barosan |  |
+| 13:00 - 14:00     | Lunch |  |  |
+| 14:00 - 14:25 (W) | Invited Talk: Complex system of systems and Digital Twins | Vinay Kulkarni | Tata Consultancy Services, Pune, India |
+| 14:25 - 14:55 (W) | Invited Talk: Two Approaches to V&V of Model Driven Embedded Software | Sujit Kumar Chakrabarti  | International Institute of Information Technology Bangalore |
+| 14:55 - 15:25 (F) | Optimal Mapping of Workflows Using Serverless Architecture in a Multi-Cloud Environment | Manju Ramesh, Chetan Phalak, Dheeraj Chahal and Rekha Singhal | TCS Research Mumbai, India |                                                 | 15:30 - 16:00     | Coffee Break |  |  |
+| 16:00 - 16:25 (F) | Towards Integration of Syntactic and Semantic Vulnerability Patterns (SHORT Paper) | Lal Akhter, Muhammad Taimoor Khan, George Loukas and Georgia Sakellari | University of Greenwich, UK |
+| 16:25 - 16:50 (F) | A fair Endorser Selection mechanism using Ciphertext-policy Attribute-based Encryption in Hyperledger Fabric | Susmita Mandal, Balaraju P and Pranay Chawhan |  |
+| 16:50 - 17:15 (Q) | Refactoring of a Microservices Project driven by Architectural Smell Detection | Paolo Bacchiega, Davide Rusconi, Paolo Mereghetti and Francesca Arcelli Fontana | University of Milano - Bicocca and Tech Gap Italia s.r.l., Italy |
 | 17:15 - 17:30 | Closing |  |  |
+
 
 ## Keynote
 
