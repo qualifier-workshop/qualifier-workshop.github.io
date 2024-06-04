@@ -80,7 +80,7 @@ The proceedings will be published by Springer as part of the LNCS series.
 ## Important dates
 (All deadlines are 23:59, Anywhere on Earth)
 
-- Paper submission: June 6, 2024
+- Paper submission: ~~June 6, 2024~~ **June 17, 2024**
 - Paper notification: June 27, 2024
 - Camera-ready version: July 4, 2024
 - Workshop dates: September 2 or 3, 2024
