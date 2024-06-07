@@ -1,6 +1,5 @@
 ---
 title: QUALIFIER at ECSA 2024
-permalink: /ECSA2024
 feature_text: |
   ## QUALIFIER at ECSA 2024
   3rd International Workshop on Quality in Software Architecture \
