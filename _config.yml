@@ -97,7 +97,7 @@ title: "QUALIFIER 2024" # Site name or title, also used in jekyll-seo-tag
   #logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 logo: "/assets/logos/qualifier.png" # Site logo, also used in jekyll-seo-tag
 description: "2nd International Workshop on Quality in Software Architecture" # Site description and default description, also used in jekyll-seo-tag
-url: "https://qualifierf-workshop.github.io" # Site url, also used in jekyll-seo-tag
+url: "https://qualifier-workshop.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
 email: "me@daviddarnes.com"
