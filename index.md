@@ -16,6 +16,23 @@ In fact, software architectures provide a valuable opportunity to assess and dri
 
 The objectives of this workshop are to bring together researchers and industrial practitioners both from the software architecture and the wider software engineering communities to collaborate, share experiences, provide directions for future research, and to encourage the use of quality assessment techniques in any stage of the software engineering lifecycle.
 
+## Accepted papers
+
+Nils Johansson, Mauro Caporuscio, and Tobias Olsson<br>
+**"Mapping source code to software architecture by leveraging Large Language Models"**
+
+
+Sahar Ahmadisakha and Vasilios Andrikopoulos<br>
+**"Mining for sustainability in cloud architecture among the discussions of software practitioners: building a dataset"**
+
+
+Pablo Cruz and Hernán Astudillo<br>
+**"Positive Side-Effects of Evaluating a Software Architecture"**
+
+## Program
+
+TBD
+
 ## Call for paper
 
 ##### Themes and goals
