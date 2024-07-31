@@ -31,9 +31,41 @@ Pablo Cruz and Hernán Astudillo<br>
 
 ## Program
 
-TBD
+Times are in CEST (UTC+2)
 
-## Call for paper
+| <img width=260/> |  |
+|:------:|:-------|
+| 09:00 - 09:15 | Welcome - Workshop Opening |
+| 09:15 - 10:15 | Keynote: **[Jacopo Soldani](#keynote), University of Pisa, Italy** |
+| 10:15 - 10:30 | Discussion |
+| 10:30 - 11:00 | Coffee Break |
+| 11:00 - 11:25 | Paper: **Mapping source code to software architecture by leveraging Large Language Models** |
+| 11:25 - 11:50 | Paper: **Mining for sustainability in cloud architecture among the discussions of software practitioners: building a dataset** |
+| 11:50 - 12:15 | Paper: **Positive Side-Effects of Evaluating a Software Architecture** |
+| 12:15 - 12:30 | Closing |
+
+<br>
+
+## Keynote
+
+<img src="uploads/soldani.jpeg" alt="Jacopo Soldani" width="200">
+
+**Jacopo Soldani, University of Pisa, Italy**<br>
+
+**Title:** "Freshening Microservices: Can Bad Smells Be Resolved?"<br>
+
+<div style="text-align: justify">
+<strong>Abstract:</strong> Microservices are pervading the IT industry to architect enterprise applications. Consequently, it is crucial to support the design and analysis of microservice applications, to ensure that they met their expectations. This support includes verifying the adherence to the key design/security principles for microservices, and guiding the necessary refactorings when this is not the case. In this keynote, we unveil the concepts of architectural and security smells for microservices, demonstrating how these can be identified and resolved within existing microservice applications. We also provide insights into prioritising smell resolution and assessing whether resolving a smell is truly beneficial, considering the impact on overall software quality attributes.
+</div>
+<br>
+
+<div style="text-align: justify">
+<strong>Bio:</strong> Jacopo Soldani is an Assistant Professor at the Department of Computer Science of the University of Pisa (Italy). He received the PhD degree in Computer Science in 2017 from the University of Pisa (Italy). His research interests lie in the area of service-based software engineering, including, e.g., cloud-native applications, microservices, and multi-service software architectures. He is also interested in systematic approaches to elicit the state-of-the-art and state-of-practice in software engineering from both white and grey literature. Jacopo has been involved in various research projects on service-based software engineering for cloud- and fog-based applications, he is member of the editorial board of internationally renowned journals, and he has also contributed to the organisation of various editions of international conferences and workshops on software engineering.
+</div>
+<br>
+
+
+## Call for papers
 
 ##### Themes and goals
 
